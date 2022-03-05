@@ -1,0 +1,76 @@
+CustomerId;OrderDate;EmployeeName;Quantity;ProductName
+HILAA;04.12.2018;Leverling;1;Schoggi Schokolade
+LEHMS;07.12.2018;Leverling;5;Chang
+LEHMS;07.12.2018;Leverling;4;Sasquatch Ale
+TRADH;05.12.2018;King;3;Filo Mix
+HILAA;04.12.2018;Leverling;6;Chai
+LAZYK;04.12.2018;Dodsworth;3;Flotemysost
+LEHMS;07.12.2018;Leverling;9;Perth Pasties
+COMMI;05.12.2018;Davolio;1;Filo Mix
+COMMI;05.12.2018;Davolio;9;Tofu
+RICAR;05.12.2018;Leverling;7;Louisiana Fiery Hot Pepper Sauce
+PRINI;04.12.2018;Davolio;8;Sasquatch Ale
+FRANS;07.12.2018;Davolio;7;Ravioli Angelo
+TRADH;05.12.2018;King;3;Tofu
+LAZYK;04.12.2018;Dodsworth;8;Konbu
+LEHMS;07.12.2018;Leverling;1;Chang
+PRINI;04.12.2018;Davolio;9;SteeleyeStout
+RICAR;05.12.2018;Leverling;7;Aniseed Syrup
+FRANS;07.12.2018;Davolio;5;Chai
+FRANS;07.12.2018;Davolio;7;Longlife Tofu
+HILAA;04.12.2018;Leverling;6;Sasquatch Ale
+HILAA;04.12.2018;Leverling;10;Inlagd Sill
+PRINI;04.12.2018;Davolio;5;Queso Manchego La Pastora
+RICAR;05.12.2018;Leverling;7;Konbu
+COMMI;05.12.2018;Davolio;4;Sasquatch Ale
+FRANS;07.12.2018;Davolio;3;Tofu
+COMMI;05.12.2018;Davolio;9;Steeleye Stout
+PRINI;04.12.2018;Davolio;5;Alice Mutton
+LAZYK;04.12.2018;Dodsworth;6;Chang
+LEHMS;07.12.2018;Leverling;2;Chai
+HILAA;04.12.2018;Leverling;6;Escargots de Bourgogne
+TRADH;05.12.2018;King;3;Alice Mutton
+LAZYK;04.12.2018;Dodsworth;2;Geitost
+LAZYK;04.12.2018;Dodsworth;3;Geitost
+RICAR;05.12.2018;Leverling;6;Ravioli Angelo
+PRINI;04.12.2018;Davolio;4;Camembert Pierrot
+HILAA;04.12.2018;Leverling;1;Gravad lax
+LEHMS;07.12.2018;Leverling;4;Outback Lager
+HILAA;04.12.2018;Leverling;7;Chocolade
+RICAR;05.12.2018;Leverling;7;Gorgonzola Telino
+LAZYK;04.12.2018;Dodsworth;9;Flotemysost
+COMMI;05.12.2018;Davolio;4;Alice Mutton
+HILAA;04.12.2018;Leverling;8;Manjimup Dried Apples
+LAZYK;04.12.2018;Dodsworth;4;Chocolade
+COMMI;05.12.2018;Davolio;8;Louisiana Hot Spiced Okra
+FRANS;07.12.2018;Davolio;1;Chai
+LEHMS;07.12.2018;Leverling;3;Filo Mix
+TRADH;05.12.2018;King;1;Louisiana Fiery Hot Pepper Sauce
+TRADH;05.12.2018;King;4;Longlife Tofu
+RICAR;05.12.2018;Leverling;4;Gravad lax
+TRADH;05.12.2018;King;9;Perth Pasties
+RICAR;05.12.2018;Leverling;6;Chai
+COMMI;05.12.2018;Davolio;8;Gnocchi di nonna Alice
+HILAA;04.12.2018;Leverling;6;Inlagd Sill
+TRADH;05.12.2018;King;4;Raclette Courdavault
+TRADH;05.12.2018;King;6;Boston Crab Meat
+HILAA;04.12.2018;Leverling;8;Aniseed Syrup
+TRADH;05.12.2018;King;7;Chai
+LEHMS;07.12.2018;Leverling;2;Chocolade
+TRADH;05.12.2018;King;8;Alice Mutton
+HILAA;04.12.2018;Leverling;9;Chocolade
+COMMI;05.12.2018;Davolio;5;Gravad lax
+COMMI;05.12.2018;Davolio;5;Louisiana Fiery Hot Pepper Sauce
+LEHMS;07.12.2018;Leverling;7;Valkoinen suklaa
+FRANS;07.12.2018;Davolio;4;Sasquatch Ale
+RICAR;05.12.2018;Leverling;5;Camembert Pierrot
+LAZYK;04.12.2018;Dodsworth;8;Nord-Ost Matjeshering
+LAZYK;04.12.2018;Dodsworth;8;Raclette Courdavault
+HILAA;04.12.2018;Leverling;4;Boston Crab Meat
+LEHMS;07.12.2018;Leverling;9;Mishi Kobe Niku
+COMMI;05.12.2018;Davolio;3;Gorgonzola Telino
+RICAR;05.12.2018;Leverling;4;Filo Mix
+LEHMS;07.12.2018;Leverling;3;Chang
+FRANS;07.12.2018;Davolio;7;Tarte au sucre
+TRADH;05.12.2018;King;1;Chartreuse verte
+PRINI;04.12.2018;Davolio;10;Alice Mutton
