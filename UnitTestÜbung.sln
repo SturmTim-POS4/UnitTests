@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{B39538AC-1548-4691-BA77-76DC0C9BE5EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCreation", "DataCreation\DataCreation.csproj", "{9C0B3C8A-A455-4D6A-83AF-7EEE9AA7DD94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindDB", "NorthwindDB\NorthwindDB.csproj", "{B5C88415-C70D-4D80-809C-29230616D06B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{B39538AC-1548-4691-BA77-76DC0C9BE5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B39538AC-1548-4691-BA77-76DC0C9BE5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B39538AC-1548-4691-BA77-76DC0C9BE5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0B3C8A-A455-4D6A-83AF-7EEE9AA7DD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0B3C8A-A455-4D6A-83AF-7EEE9AA7DD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0B3C8A-A455-4D6A-83AF-7EEE9AA7DD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0B3C8A-A455-4D6A-83AF-7EEE9AA7DD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C88415-C70D-4D80-809C-29230616D06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C88415-C70D-4D80-809C-29230616D06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C88415-C70D-4D80-809C-29230616D06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C88415-C70D-4D80-809C-29230616D06B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

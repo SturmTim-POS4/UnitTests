@@ -70,4 +70,20 @@ public class Tests
         _northwindActions.TotalsPerProductAndEmployee();
         _northwindActions.totalsPerEmployeeDictionary[employee][product].Should().Be(total);
     }
+
+    [Fact]
+    public void T07_InsertProducts()
+    {
+        _northwindActions.InitData();
+        int nrCategories = 8;
+        int nrProducts = 77;
+        int nrSuppliers = 29;
+        _northwindActions.InsertProducts();
+        _northwindActions.db.Categories.Count().Should().Be(nrCategories+2);
+        _northwindActions.db.Suppliers.Count().Should().Be(nrSuppliers);
+        _northwindActions.db.Products.Count().Should().Be(nrProducts+8);
+        _northwindActions.Dispose();
+    }
+    
+    
 }

@@ -15,4 +15,12 @@
       </None>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\NorthwindDB\NorthwindDB.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="TemporaryDbs" />
+    </ItemGroup>
+
 </Project>
